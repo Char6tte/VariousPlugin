@@ -1,0 +1,5 @@
+name: Various
+version: '${version}'
+main: com.charlotte04.various.VariousPlugin
+api-version: 1.18
+authors: [ charlotte ]
