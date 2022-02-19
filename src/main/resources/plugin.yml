@@ -6,3 +6,10 @@ authors: [ charlotte ]
 commands:
   various:
     aliases: [ vs ]
+    usage: "/<command> <>"
+  effect_item:
+    aliases: [ ei ]
+    usage: "/<command> <itemName>"
+  trade:
+    aliases: [ tr ]
+    usage: "/<command> <>"

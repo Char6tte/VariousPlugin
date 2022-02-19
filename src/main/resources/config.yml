@@ -1,1 +1,12 @@
 Use Lang: "Ja"
+
+Mysql:
+  hostUrl: "localhost/exposed_sample"
+  user: "root"
+  password: "password"
+
+Message:
+  joinMessage: "&b%player%がログインしました！"
+
+GUIName:
+  MainMenu: "Main Menu"
